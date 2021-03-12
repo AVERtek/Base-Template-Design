@@ -1,5 +1,5 @@
 ### <a href="https://avertek.github.io/AlexanBahay-WalkingTour/" onclick="getOutboundLink('https://avertek.github.io/AlexanBahay-WalkingTour/'); return false;">Immersive 3D Walking Tour on Computer</a> <!-- Loads <model-viewer> for old browsers like IE11: -->
-### Augmented Reality 4D Tour on Mobile <!-- Loads <model-viewer> for old browsers like IE11: -->
+### 4D Augmented Reality on Mobile <!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
 
@@ -56,5 +56,5 @@ var getOutboundLink = function(url) {
 
 ---
 
-### <a href="https://avertek.net/xr-now" onclick="getOutboundLink('https://avertek.net/xr-now'); return false;">Learn More About AVERtek's XR-NOW</a> 
+### <a href="https://avertek.net/" onclick="getOutboundLink('https://avertek.net/'); return false;">Learn More About AVERtek</a> 
   <br><br>
