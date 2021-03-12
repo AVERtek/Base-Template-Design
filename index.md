@@ -1,4 +1,4 @@
-### <a href="https://avertek.github.io/AlexanBahay-WalkingTour/" onclick="getOutboundLink('https://avertek.github.io/AlexanBahay-WalkingTour/'); return false;">Immersive 3D Walking Tour on Computer</a> <!-- Loads <model-viewer> for old browsers like IE11: -->
+### <a href="https://avertek.github.io/AlexanBahay-WalkingTour/" onclick="getOutboundLink('https://avertek.github.io/AlexanBahay-WalkingTour/'); return false;">3D Immersive Walking Tour on Computer</a> <!-- Loads <model-viewer> for old browsers like IE11: -->
 ### 4D Augmented Reality on Mobile <!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
